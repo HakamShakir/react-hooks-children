@@ -19,3 +19,7 @@ function Container({
 }
 
 export default Container;
+
+// TextPosition aligns the text to left,right, or center.
+// direction is the direction of the flex, either rows or columns
+// content position is aligns the items in the flex.
